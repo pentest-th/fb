@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.container{
+    display: flex;
+    
+}
+
+.left{
+    width: 50%;
+    background-color: aqua;
+}
+
+.right{
+    width: 50%;
+    background-color: blueviolet;
+}
